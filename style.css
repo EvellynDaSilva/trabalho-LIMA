@@ -54,3 +54,42 @@ footer{
     text-align: center;
     background-color: black;
 }
+@media (max-width: 640px){
+    header{
+        display: flex;
+    }
+    main{
+        height: 80vh;
+        margin-right: 5vw;
+        margin-left: 5vh;
+    }
+    .topicos-container{
+        height: 80vh;
+        margin-right: 5vw;
+        margin-left: 5vh;
+    }
+    footer{
+        display: none;
+    }
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
